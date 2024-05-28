@@ -1,6 +1,7 @@
 # Travel-Tracker
 
 Travel Tracker webpage is made using express and PostgreSQL.
+<br>
 Run command **npm i** to install all necessary packages.
 Run **npm i pg** to install postgres.
 Run **nodemon index.js** .
