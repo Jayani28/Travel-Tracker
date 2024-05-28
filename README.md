@@ -8,7 +8,6 @@
   <li>Create tables 'visited_countries' to store the list of all visited countries.</li>
   <li>Use the table 'countries' to check for the country codes.</li>
   <li>Open the page in http://localhost:3000/ to try it out!</li>
-
-
-
+</ul>
+<img src="image.png">
 
