@@ -9,5 +9,6 @@
   <li>Use the table 'countries' to check for the country codes.</li>
   <li>Open the page in http://localhost:3000/ to try it out!</li>
 </ul>
+<h3>Output:</h3>
 <img src="image.png">
 
