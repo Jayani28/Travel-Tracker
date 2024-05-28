@@ -1,6 +1,7 @@
 # Travel-Tracker
 <ul>
-Travel Tracker webpage is made using express and PostgreSQL.
+  <li>Travel Tracker webpage is made using express and PostgreSQL.</li>
+
 <br>
 Run command **npm i** to install all necessary packages.
 <br>
