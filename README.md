@@ -1,7 +1,8 @@
 # Travel-Tracker
+<h2>Installation:</h2>
 <ul>
   <li>Travel Tracker webpage is made using express and PostgreSQL.</li>
-  <li>Run command <b>npm i</b> to install all necessary packages.</li>
+  <li>Run command <b>npm i</b> to install the node modules.</li>
   <li>Run <b>npm i pg</b> to install postgres.</li>
   <li>Run <b>nodemon index.js</b> .</li>
   <li>Create a database in pgadmin.</li>
